@@ -28,39 +28,37 @@ Just upload the Solidity file contained in this repository to your Remix IDE wor
 
 ### Successful Compilation
 
-![Ganache Initial Balances](Images/Ganache_initial_balances.png)
+![Successful Compilation](Execution_Results/successful_compilation.png)
 
 ### Successful Deployment
 
-![Kendall](Images/streamlit_kendall.png)
+![Successful Deployment](Execution_Results/successful_deployment.png)
 
 ### Authorizing Ethereum Addresses Using setAccounts Function
 
-![Final Balances](Images/Ganache_final_balances.png)
+![Set Accounts](Execution_Results/set_accounts.png)
 
----
-
-![Blocks Mined](Images/Ganache_blocks_mined.png)
+![Blocks Mined](Execution_Results/Ganache_blocks_mined.png)
 
 ### Deposit 1 ether as wei
 
-![Final Balances](Images/Ganache_final_balances.png)
+![Deposit 1 Ether in Wei](Execution_Results/deposit_one_ether_as_wei.png)
 
 ### Deposit 10 ether as wei
 
-![Final Balances](Images/Ganache_final_balances.png)
+![Deposit 10 Ether in Wei](Execution_Results/deposit_ten_ether_as_wei.png)
 
 ### Deposit 5 ether
 
-![Final Balances](Images/Ganache_final_balances.png)
+![Deposit 5 Ether in Ether](Execution_Results/deposit_five_ether_as_ether.png)
 
 ### Withdraw 5 ether into accountOne
 
-![Final Balances](Images/Ganache_final_balances.png)
+![Withdraw 5 Ether into accountOne](Execution_Results/withdraw_five_to_accountOne.png)
 
 ### Withdraw 10 ether into accountTwo
 
-![Final Balances](Images/Ganache_final_balances.png)
+![Withdraw 10 Ether into accountTwo](Execution_Results/withdraw_ten_to_accountTwo.png)
 
 ---
 
